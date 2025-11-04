@@ -1,1 +1,1 @@
-# somestudyguides.github.io
+# Some Study Guides
