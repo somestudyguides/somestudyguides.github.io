@@ -2,6 +2,8 @@
 
 [AC English 1](ACEnglish1)
 
+[AP World History](APWorldHistory)
+
 ## License
 
 This repository is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE).
