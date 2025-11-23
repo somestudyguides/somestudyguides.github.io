@@ -1,5 +1,13 @@
 # Study Guides
 
+[Mandarin 1](Mandarin1)
+
+[AC Geometry/Trigonometry](ACGeometryTrigonometry)
+
+[AC Biology 1](ACBiology1)
+
+[Theology 1](Theology1)
+
 [AC English 1](ACEnglish1)
 
 [AP World History](APWorldHistory)
